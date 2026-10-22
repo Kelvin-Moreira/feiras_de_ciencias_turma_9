@@ -2,3 +2,4 @@ MATERIAIS
 Mesas: 10
 Cadeiras: 40
 Cartazes: 15
+Placas de sinalização: 5
