@@ -1,4 +1,4 @@
 MATERIAIS
 Mesas: 10
-Cadeiras: 40
+Cadeiras: 60
 Cartazes: 15
